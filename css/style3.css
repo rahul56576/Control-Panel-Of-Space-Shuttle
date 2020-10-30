@@ -1,0 +1,143 @@
+*{	margin: 0;
+	padding: 0;
+	font-family: century Gothic;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../tl.jpg);
+	height: 550vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin: 25px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+	font-weight: 900;
+	font-size: 17px;
+	position: relative;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.ex h1{
+	color: #fff;
+	font-size: 40px;
+}
+
+.ex{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.op h4{
+	color: #fff;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.yt h1{
+	color: #fff;
+	font-size: 40px;
+}
+
+.yt{
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.ok h4{
+	color: #fff;
+	position: absolute;
+	top: 120%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.gh h1{
+	color: #fff;
+	font-size: 40px;
+}
+
+.gh{
+	position: absolute;
+	top: 170%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.kl h4{
+	color: #fff;
+	position: absolute;
+	top: 200%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.jk h1{
+	color: #fff;
+	font-size: 40px;
+}
+
+.jk{
+	position: absolute;
+	top: 230%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.rr h4{
+	color: #fff;
+	position: absolute;
+	top: 340%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.ar h1{
+	color: #fff;
+	font-size: 40px;
+}
+
+.ar{
+	position: absolute;
+	top: 450%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.an h4{
+	color: #fff;
+	position: absolute;
+	top: 500%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
